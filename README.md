@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/bqiD7bEcsWIAAAAi/naruto-rage.gif" alt="Naruto Rage" align="left" width="50">
+<img src="https://media.tenor.com/bqiD7bEcsWIAAAAi/naruto-rage.gif" alt="Naruto Rage" align="left">
 <h1>&nbspHey! Nice to see you.</h1>
 
 ### Languages and tools
