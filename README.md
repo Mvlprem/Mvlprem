@@ -1,5 +1,5 @@
 <img src="https://media.tenor.com/bqiD7bEcsWIAAAAi/naruto-rage.gif" alt="Naruto Rage" align="left" width="76">
-<h1>&nbspHey! Nice to see you.</h1>
+<h1>&nbspHello There!</h1>
 
 ### Languages and tools
 
@@ -26,7 +26,7 @@ I love video games so much, I feel they are an escape from our sometimes boring 
 
 - 💻 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏛️ I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about anything, i am happy to help :)
+- 💬 Ask me about anything, I'm happy to help :)
 - 🗣️ Pronouns: He & Happy 🙂
 
 ### Where to find me
@@ -34,5 +34,4 @@ I love video games so much, I feel they are an escape from our sometimes boring 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvlprem/)
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:mvl.prem@outlook.com)
 
-<!-- Profile Views-->
 ![](https://komarev.com/ghpvc/?username=Mvlprem)
