@@ -7,6 +7,7 @@
 ![Redux](https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC)
 ![Vite](https://img.shields.io/badge/Vite-black?style=flat&logo=vite&logoColor=646CFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
