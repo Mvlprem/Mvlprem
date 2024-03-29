@@ -20,7 +20,7 @@
 
 ### @me
 
-I'm a passionate self-taught Front End Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. I am always seeking new opportunities to connect with the broader developer community and continue to grow and learn.
+I'm a passionate Full Stack Engineer with a deep love for JavaScript technologies. My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences. Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
 
 I love video games so much, I feel they are an escape from our sometimes boring lives.
 
