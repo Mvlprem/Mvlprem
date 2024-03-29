@@ -3,14 +3,18 @@
 
 ### Languages and tools
 
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000)
 ![React.js](https://img.shields.io/badge/React.js-black?style=flat&logo=react&logoColor=61DAFB)
+![nodedotjs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+
 ![Redux](https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
 ![Vite](https://img.shields.io/badge/Vite-black?style=flat&logo=vite&logoColor=646CFF)
 ![nextdotjs](https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=000000)
-![nodedotjs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-black?style=flat&logo=ejs&logoColor=B4CA65)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-black?style=flat&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
