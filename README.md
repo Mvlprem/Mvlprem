@@ -24,7 +24,9 @@
 
 ### @me
 
-I'm a passionate Full Stack Engineer with a deep love for JavaScript technologies. My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences. Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
+I'm an enthusiastic Full Stack Developer with a knack for building user-friendly web applications. I leverage both front-end and back-end expertise to craft innovative solutions.
+
+I actively seek new tools and techniques to streamline daily tasks, making them more intuitive and less cumbersome. This allows me to approach real-world challenges creatively and efficiently.
 
 I love video games so much, I feel they are an escape from our sometimes boring lives.
 
