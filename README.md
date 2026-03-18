@@ -1,39 +1,17 @@
 <img src="https://media.tenor.com/bqiD7bEcsWIAAAAi/naruto-rage.gif" alt="Naruto Rage" align="left" width="76">
 <h1>&nbspHello There!</h1>
 
-### Languages and tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
-![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000)
-![React.js](https://img.shields.io/badge/React.js-black?style=flat&logo=react&logoColor=61DAFB)
-![nodedotjs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
-
-![Redux](https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/Vite-black?style=flat&logo=vite&logoColor=646CFF)
-![nextdotjs](https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=000000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-black?style=flat&logo=ejs&logoColor=B4CA65)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-black?style=flat&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 ### @me
 
-I'm an enthusiastic Full Stack Developer with a knack for building user-friendly web applications. I leverage both front-end and back-end expertise to craft innovative solutions.
+My journey into security started by "breaking" the very things I was building. By developing a working proficiency in Java, Kotlin, React, and JavaScript, I developed a deep understanding of vulnerabilities at the source-code level. I believe that to defend a system, you must first understand the logic used to create it.
 
-I actively seek new tools and techniques to streamline daily tasks, making them more intuitive and less cumbersome. This allows me to approach real-world challenges creatively and efficiently.
+I am a firm believer in efficiency through automation, utilizing Python and Bash to streamline security workflows. Currently, I am focused on learning new skills through hands-on labs on TryHackMe and HackTheBox, focusing on real-world threat scenarios. I look forward to contributing to a Security Operations team where I can leverage my "builder’s mindset" to defend systems against modern threats.
 
 I love video games so much, I feel they are an escape from our sometimes boring lives.
 
 - 💻 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏛️ I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about anything, I'm happy to help :)
-- 🗣️ Pronouns: He & Happy 🙂
 
 ### Where to find me
 
